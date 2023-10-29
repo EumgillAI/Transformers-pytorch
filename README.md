@@ -3,7 +3,7 @@
 
 - Model : Transformer
 - Paper : [Attention Is All You Need]()
-- Architecture : ![](./resource/Transformer.png)
+- Architecture : <br> ![](./resource/Transformer.png)
 
 
 ## Paper Review by KOR :
